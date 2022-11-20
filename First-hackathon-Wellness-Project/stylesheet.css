@@ -1,0 +1,38 @@
+body {
+    background-color: #c078f0;
+}
+
+h1{
+    font-family: monospace;
+    color:aliceblue;
+    margin-top: 100;
+}
+
+
+.bubble-button {
+    position: fixed;
+    bottom: 0;
+    right: 120px;;
+    size-adjust: 100;
+}
+
+.bubble-button2 {
+    position: fixed;
+    bottom: 0;
+    right: 300px;;
+    size-adjust: 100;
+}
+
+.bubble-button3 {
+    position: fixed;
+    bottom: 0;
+    right: 500px;;
+    size-adjust: 100;
+}
+
+.bubble-button4 {
+    position: fixed;
+    bottom: 0;
+    right: 900px;;
+    size-adjust: 1000;
+}
